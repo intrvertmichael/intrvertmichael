@@ -1,8 +1,9 @@
-### Hi there 👋
+### hello world, my name is Michael
+Self taught Programmer, Traditionally educated Designer, Experienced Educator
 
-[portfolio](https://intrvertmichael.github.io)
-[linkedIn](https://www.linkedin.com/in/michaelpaguay/)
-[resume](https://resume.creddle.io/resume/ge4tz5cva4l)
+- [portfolio](https://intrvertmichael.github.io)
+- [linkedIn](https://www.linkedin.com/in/michaelpaguay/)
+- [resume](https://resume.creddle.io/resume/ge4tz5cva4l)
 
 <!--
 **intrvertmichael/intrvertmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
