@@ -1,21 +1,8 @@
-# 🌍 Hello world, my name is Michael
-Self taught Programmer, Traditionally educated Designer, Experienced Educator
+# Hello 🌍, my name is Michael
+### Programmer, Designer, Educator
 
-- [Portfolio](https://intrvertmichael.github.io)
-- [LinkedIn](https://www.linkedin.com/in/michaelpaguay/)
-- [Resume](https://resume.creddle.io/resume/ge4tz5cva4l)
+I am 32 years old and I live in New York City. I love cycling, running, good design, visual arts, learning, and creating.
 
-<!--
-**intrvertmichael/intrvertmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My love of learning and creating has manifested itself into a deep interest in computer programming, which I am aiming to turn into a career. I have previously developed skills in drawing, digital graphics, photography, video editing, animation, and 3D modeling.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Portfolio](https://intrvertmichael.github.io) | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) | [Resume](https://resume.creddle.io/resume/ge4tz5cva4l)
