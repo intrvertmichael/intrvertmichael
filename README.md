@@ -1,5 +1,5 @@
 # Hello 🌍, my name is Michael
-💻 Web Developer 🎨 Designer 📓 Educator
+Web Developer | Designer | Educator
 
 ```Javascript
 const age = 32
@@ -14,4 +14,4 @@ console.log(`
 
 My love of learning and creating has manifested itself into a deep interest in computer programming, which I am aiming to turn into a career. I have previously developed skills in drawing, digital graphics, photography, video editing, animation, and 3D modeling.
 
-### [Portfolio](https://intrvertmichael.github.io) | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) | [Resume](https://resume.creddle.io/resume/ge4tz5cva4l)
+[Portfolio](https://intrvertmichael.github.io) | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) | [Resume](https://resume.creddle.io/resume/ge4tz5cva4l)
