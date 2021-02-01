@@ -2,8 +2,14 @@
 ### Programmer, Designer, Educator
 
 ```Javascript
-I am 32 years old and I live in New York City.
-I love cycling, running, good design, visual arts, learning, and creating.
+const age = 32
+const city = "New York City"
+const interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
+
+console.log(`
+  I am ${age} years old and I live in ${city}.
+  ${interests.map( interest => ' i love' + interest )}.
+`)
 ```
 
 My love of learning and creating has manifested itself into a deep interest in computer programming, which I am aiming to turn into a career. I have previously developed skills in drawing, digital graphics, photography, video editing, animation, and 3D modeling.
