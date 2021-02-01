@@ -4,7 +4,7 @@
 ```Javascript
 const age = 32
 const city = "New York City"
-const interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
+let interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
 
 console.log(`
   I am ${age} years old and I live in ${city}.
