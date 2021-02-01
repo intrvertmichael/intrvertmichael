@@ -1,7 +1,7 @@
 # Hello 🌍, my name is Michael
 ### Programmer, Designer, Educator
 
-```
+```Javascript
 I am 32 years old and I live in New York City.
 I love cycling, running, good design, visual arts, learning, and creating.
 ```
