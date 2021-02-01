@@ -8,7 +8,7 @@ const interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'c
 
 console.log(`
   I am ${age} years old and I live in ${city}.
-  ${interests.map( interest => ' i love' + interest )}.
+  ${interests.map( interest => ' i love ' + interest )}.
 `)
 ```
 
