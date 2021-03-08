@@ -1,5 +1,4 @@
 # Hello 🌍, my name is Michael
-Web Developer | Designer | Educator
 
 ```Javascript
 const age = 32
