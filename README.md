@@ -1,4 +1,5 @@
-# My name is Michael | Web Developer
+# Michael Paguay
+## Web Developer
 
 ```Javascript
 const age = 32
