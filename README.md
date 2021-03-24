@@ -1,5 +1,5 @@
 # Michael Paguay
-## Web Developer
+### Web Developer
 
 ```Javascript
 const age = 32
