@@ -20,12 +20,3 @@ I discovered the passion that has brought everything together, my [Ikigai](https
 [Portfolio](https://intrvertmichael.github.io) 
 | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) 
 | [Resume](https://intrvertmichael.github.io/static/media/resume.e00b5128.pdf)
-
-
-<datalist id="animals">
-    <option value="Cat">
-    <option value="Dog">
-    <option value="Chicken">
-    <option value="Cow">
-    <option value="Pig">
-  </datalist>
