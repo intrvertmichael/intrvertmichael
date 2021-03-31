@@ -1,10 +1,12 @@
 ```Javascript
 
-import {WebDeveloper} from 'careers'
+import {WebDeveloper} from './components/careers'
 
 <WebDeveloper
     name = 'Michael Paguay'
     location = 'New York'
+    email = 'michaelpaguay@me.com'
+    url = 'http://intrvertmichael.github.io'
     interest = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
 />
 ```
