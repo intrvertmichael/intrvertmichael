@@ -19,4 +19,4 @@ I discovered the passion that has brought everything together, my [Ikigai](https
 
 [Portfolio](https://intrvertmichael.github.io) 
 | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) 
-| [Resume](https://intrvertmichael.github.io/static/media/resume.e00b5128.pdf)
+| [Resume](https://intrvertmichael.github.io/resume.pdf)
