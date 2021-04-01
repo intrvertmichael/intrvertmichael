@@ -1,6 +1,6 @@
 ```Javascript
 
-import {WebDeveloper} from './components/careers'
+import { WebDeveloper } from './components/careers'
 
 <WebDeveloper
         name = 'Michael Paguay'
