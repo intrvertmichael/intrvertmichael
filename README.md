@@ -7,7 +7,7 @@ import { WebDeveloper } from './components/careers'
     location = 'New York'
        email = 'michaelpaguay@me.com'
          url = 'http://intrvertmichael.github.io'
-    interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
+   interests = ['cycling', 'running', 'design', 'visual arts', 'learning', 'creating']
 />
 ```
 
