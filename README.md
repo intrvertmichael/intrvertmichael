@@ -19,3 +19,5 @@ All my life I've loved visual art, but my graphic design career did not fulfill 
 [Portfolio](https://intrvertmichael.github.io) 
 | [LinkedIn](https://www.linkedin.com/in/michaelpaguay/) 
 | [Resume](https://intrvertmichael.github.io/resume.pdf)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intrvertmichael&layout=compact&bg_color=161a1f&title_color=ff7067&text_color=90c0ee&icon_color=6ab5fa&hide_border=true)
