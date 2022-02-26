@@ -1,5 +1,5 @@
 
-# About me <img src="https://media.giphy.com/media/Wj116ZszUZEwRIoz0j/giphy.gif" width="50px">
+# About me <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" height="50px">
 
 
 In 2012, I decided I wanted to do something impactful.
